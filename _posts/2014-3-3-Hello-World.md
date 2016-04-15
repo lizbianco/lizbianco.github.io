@@ -1,10 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: What would I do without Google?
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+By the end of today I will have completed 1/6 of my Metis bootcamp and I can't quite believe it. Google tells me that 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+![last_week_analysis]({{ site.baseurl }}/images/Last%20Week.png)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
